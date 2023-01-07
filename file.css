@@ -1,0 +1,38 @@
+.card{
+	justify-content:space-around;
+	padding:20px;
+	border:1px blue dotted;
+	display:flex;
+	width:400px;
+	margin:0 auto;
+	color:black;
+	background-color: #ddebf8;
+	text-align:center;
+	border-bottom: 6px solid #d8cefe;
+}
+.picture{
+	width:150px;
+	border: 1px blue dotted;
+
+	
+}
+body{
+	
+	
+	margin:20px;
+	
+}
+.italic{
+	font-style:italic;
+	
+}
+.border-blue{
+	border: 1px blue dotted;
+}
+.inherit{
+	text-align:center;
+}
+body{
+	font-family:verdana;
+}
+
